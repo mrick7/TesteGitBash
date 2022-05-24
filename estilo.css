@@ -1,0 +1,35 @@
+*{
+    margin: px;
+    padding: 0px;
+}
+
+body{
+    background-color: aquamarine;
+    text-align: center;
+    padding-top: 100px;
+    font: normal 16px arial, sans-serif;
+}
+
+section{
+    background-color: aliceblue;
+    margin: auto;
+    width: 400px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+div{
+    padding: 10px;
+}
+
+#resultado{
+    width: 300px;
+    height: 220px;
+    border: 2px solid;
+    text-align: center;
+   margin: auto;
+}
+
+footer{
+    margin-top: 250px;
+}
